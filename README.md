@@ -1,9 +1,9 @@
-# 🦞 OpenClaw — Personal AI Assistant
+# OpenClaw, but an alive claw
 
 <p align="center">
     <picture>
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text-dark.svg">
-        <img src="https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text.svg" alt="OpenClaw" width="500">
+        <source media="(prefers-color-scheme: light)" srcset="tideclaw_pic/openclaw-logo-text-dark-teal.svg">
+        <img src="tideclaw_pic/openclaw-logo-text-live-lobster.svg" alt="OpenClaw" width="500">
     </picture>
 </p>
 
