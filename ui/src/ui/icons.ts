@@ -368,8 +368,8 @@ export const icons = {
     <svg viewBox="0 0 120 120" fill="none">
       <defs>
         <linearGradient id="lob-g" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stop-color="#ff4d4d" />
-          <stop offset="100%" stop-color="#991b1b" />
+          <stop offset="0%" stop-color="#22d3ee" />
+          <stop offset="100%" stop-color="#0e7490" />
         </linearGradient>
       </defs>
       <path
@@ -381,8 +381,8 @@ export const icons = {
         d="M100 45C115 40 120 50 115 60C110 70 100 65 95 55C92 48 95 45 100 45Z"
         fill="url(#lob-g)"
       />
-      <path d="M45 15Q35 5 30 8" stroke="#ff4d4d" stroke-width="3" stroke-linecap="round" />
-      <path d="M75 15Q85 5 90 8" stroke="#ff4d4d" stroke-width="3" stroke-linecap="round" />
+      <path d="M45 15Q35 5 30 8" stroke="#22d3ee" stroke-width="3" stroke-linecap="round" />
+      <path d="M75 15Q85 5 90 8" stroke="#22d3ee" stroke-width="3" stroke-linecap="round" />
       <circle cx="45" cy="35" r="6" fill="#050810" />
       <circle cx="75" cy="35" r="6" fill="#050810" />
       <circle cx="46" cy="34" r="2.5" fill="#00e5cc" />
