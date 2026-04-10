@@ -2,8 +2,8 @@
 
 <p align="center">
     <picture>
-        <source media="(prefers-color-scheme: light)" srcset="tideclaw_pic/openclaw-logo-text-dark-teal.svg">
-        <img src="tideclaw_pic/openclaw-logo-text-live-lobster.svg" alt="OpenClaw" width="500">
+        <source media="(prefers-color-scheme: light)" srcset="tideclaw_pic/openclaw-logo-text-live-lobster.svg">
+        <img src="tideclaw_pic/openclaw-logo-text-dark-teal.svg" alt="OpenClaw" width="800">
     </picture>
 </p>
 
